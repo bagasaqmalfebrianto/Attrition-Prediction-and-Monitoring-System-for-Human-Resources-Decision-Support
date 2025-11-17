@@ -2,6 +2,10 @@
 
 ## Business Understanding
 
+![alt text](image.png)
+
+Link : https://public.tableau.com/views/HRDashboard_17605473933450/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Jaya Jaya Maju adalah perusahaan multinasional yang telah beroperasi sejak tahun 2000 dan memiliki lebih dari 1.000 karyawan yang tersebar di berbagai wilayah. Meski telah tumbuh menjadi perusahaan besar, Jaya Jaya Maju menghadapi tantangan serius dalam pengelolaan sumber daya manusianya. Salah satu indikator utama dari permasalahan ini adalah meningkatnya attrition rate atau tingkat keluar masuk karyawan, yang telah melampaui angka 10%.
 
 Tingginya attrition rate berdampak pada produktivitas, biaya rekrutmen, pelatihan ulang, serta stabilitas tim dan proyek yang sedang berjalan. Oleh karena itu, dibutuhkan langkah strategis untuk mengidentifikasi faktor-faktor penyebab utama attrition dan membuat sistem monitoring berbasis dashboard yang mampu memberikan gambaran menyeluruh tentang kondisi karyawan di berbagai dimensi.
